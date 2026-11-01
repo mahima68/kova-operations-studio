@@ -88,7 +88,3 @@ The app includes a draft search plan, not an active Google Ads campaign.
 - Example budget: ₹5,000 at an assumed ₹10 per click gives 500 clicks. An assumed 2% purchase rate gives 10 purchases in the calculator. These are assumptions, not predicted results.
 
 For a real campaign, choose goals and measurement first, then verify setup and results in the chosen advertising platform. This prototype has no advertising connection.
-
-## 7. How to present the project
-
-Show the problem, the workflow, the sample data and a recorded test. Explain that AI helped write the dashboard, internal API, data model and tests. Discuss one business decision using the demo numbers, such as which variants need replenishment, while clearly calling those figures fictional.
