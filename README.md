@@ -4,6 +4,12 @@ A fictional Indian T-shirt brand and a working operations app for a business run
 
 ![Operations Studio](docs/screenshots/dashboard.png)
 
+## Live app
+
+[Open Kova Operations Studio](https://kova-lifestyle-studio.mahajanmahima06.chatgpt.site).
+
+Public access is enabled. Visitors must sign in with their own ChatGPT account to use a separate workspace seeded with fictional records. The app stores records per signed-in user; visitors do not share the owner's workspace. Use fictional information when exploring this portfolio prototype.
+
 ## What works
 
 - A 20-task launch checklist covering brand, products, suppliers, money, store setup, marketing and operations.
@@ -69,7 +75,7 @@ ChatGPT and Codex assisted with app code, dashboards, the internal API, data des
 
 ## Run the source locally
 
-Use Node.js 22.13 or newer and npm. This app uses the bundled Sites development adapter for local sign-in and Cloudflare's local D1 store. Hosted access is owner-private and requires the owner's ChatGPT account.
+Use Node.js 22.13 or newer and npm. This app uses the bundled Sites development adapter for local sign-in and Cloudflare's local D1 store. Hosted access is public, with ChatGPT sign-in required for each visitor's own workspace.
 
 ```sh
 npm ci
@@ -94,4 +100,5 @@ Stock and order CSV exports prefix formula-like text so a customer name or SKU i
 
 [KOVA Lifestyle — Digital Marketing Launch](https://github.com/mahima68/kova-lifestyle-digital-marketing) explores the same fictional brand through campaign planning, creative assets, SEO, paid-media drafts and measurement.
 
-The hosted Operations Studio is a private demo, not a public recruiter sandbox. Screenshots and this source repository provide access to the project without requesting entry to its saved workspace.
+The hosted Operations Studio is publicly accessible with ChatGPT sign-in. Screenshots and this source repository are also available for reviewing the project without signing in.
+
